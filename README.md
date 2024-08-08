@@ -2,6 +2,8 @@
 
 <img src="assets/img/connect4.jpg" alt="drawing" width="200"/>
 
+"El clásico juego de mesa Connect 4 donde 2 jugadores compiten estratégicamente por el control de la rejilla. Los jugadores escogen las fichas rojas o amarillas y las colocan en la rejilla, comenzando por el centro o el borde, e intentan alinear 4 en horizontal, vertical o diagonal. ¡No dejes que te ganen!
+
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
 
