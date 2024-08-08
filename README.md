@@ -79,7 +79,7 @@ Si no hay ganador 3(Empate)
 
   
 ## Instalación 
-*APACHE NET BEANS Y IMPORTAR EL PROYECTO*
+*APACHE NET BEANS Y IMPORTAR EL PROYECTO, Luego en el proyecto click izquierdo y "Run File" *
   
 ## Licencia 📄
 MIT Public License v3.0
