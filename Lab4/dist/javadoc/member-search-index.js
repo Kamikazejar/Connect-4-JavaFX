@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"lab4","c":"Lab4","l":"checkForIdenticalFour(int[][])"},{"p":"lab4","c":"Lab4","l":"Lab4()","u":"%3Cinit%3E()"},{"p":"lab4","c":"Lab4","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"lab4","c":"Lab4","l":"start(Stage)","u":"start(javafx.stage.Stage)"}];updateSearchResults();
