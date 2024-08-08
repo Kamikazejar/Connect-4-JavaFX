@@ -5,7 +5,11 @@
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
 ![Interfaz](assets/img/interfaz.png)
+
+
 ![Interfaz2](assets/img/interfaz2.png)
+
+
 ![Interfaz3](assets/img/interfaz3.png)
 
 Si Gana Jugador 1(Empieza el primero 1)
